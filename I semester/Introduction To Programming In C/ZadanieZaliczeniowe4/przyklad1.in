@@ -1,0 +1,11 @@
+digraph {
+  a -> bb
+  start -> bb
+  ccc -> bb
+  start -> a
+  bb -> dddd
+  a -> dddd
+  bb -> eeeee
+  eeeee -> ffffff
+  a -> ggggggg
+}
